@@ -1,0 +1,12 @@
+{
+    "name": "mini-web-framework",
+    "version": "1.0.0",
+    "description": "Mini web framework, like express",
+    "main": "main.mjs",
+    "scripts": {
+        "dev": "node app/main.mjs"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {}
+}
